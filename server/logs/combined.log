@@ -1,0 +1,83 @@
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-21 14:52:52"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-21 14:52:52"}
+{"level":"info","message":"Client connected: FNZ0ancScainTW8pAAAC","service":"smart-assistant","timestamp":"2025-10-21 14:54:45"}
+{"level":"info","message":"Voice command received: hii","service":"smart-assistant","timestamp":"2025-10-21 14:54:50"}
+{"level":"info","message":"Intent detected: None, Confidence: 1","service":"smart-assistant","timestamp":"2025-10-21 14:54:51"}
+{"level":"info","message":"Voice command received: weather","service":"smart-assistant","timestamp":"2025-10-21 14:55:05"}
+{"level":"info","message":"Intent detected: weather, Confidence: 0.9272262565366403","service":"smart-assistant","timestamp":"2025-10-21 14:55:05"}
+{"level":"info","message":"Voice command received: weather in india","service":"smart-assistant","timestamp":"2025-10-21 14:55:14"}
+{"level":"info","message":"Intent detected: weather.city, Confidence: 0.7819201480586988","service":"smart-assistant","timestamp":"2025-10-21 14:55:14"}
+{"level":"info","message":"Voice command received: Hello, hello, hello, hello.","service":"smart-assistant","timestamp":"2025-10-21 14:55:34"}
+{"level":"info","message":"Intent detected: greeting, Confidence: 1","service":"smart-assistant","timestamp":"2025-10-21 14:55:34"}
+{"level":"info","message":"Voice command received: 1+2","service":"smart-assistant","timestamp":"2025-10-21 14:55:49"}
+{"level":"info","message":"Intent detected: None, Confidence: 1","service":"smart-assistant","timestamp":"2025-10-21 14:55:49"}
+{"level":"info","message":"Voice command received: math","service":"smart-assistant","timestamp":"2025-10-21 14:55:55"}
+{"level":"info","message":"Intent detected: None, Confidence: 1","service":"smart-assistant","timestamp":"2025-10-21 14:55:55"}
+{"level":"info","message":"Voice command received: calculations","service":"smart-assistant","timestamp":"2025-10-21 14:56:05"}
+{"level":"info","message":"Intent detected: math, Confidence: 1","service":"smart-assistant","timestamp":"2025-10-21 14:56:05"}
+{"level":"info","message":"Voice command received: 1+2","service":"smart-assistant","timestamp":"2025-10-21 14:56:10"}
+{"level":"info","message":"Intent detected: None, Confidence: 1","service":"smart-assistant","timestamp":"2025-10-21 14:56:10"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-21 14:57:39"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-21 14:57:39"}
+{"level":"info","message":"Client connected: p-KygeEVi_ErFiZ8AAAB","service":"smart-assistant","timestamp":"2025-10-21 14:57:39"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-21 14:57:58"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-21 14:57:58"}
+{"level":"info","message":"Client connected: 8oIeJpb8ykbyfxeuAAAB","service":"smart-assistant","timestamp":"2025-10-21 14:57:58"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-21 14:58:16"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-21 14:58:16"}
+{"level":"info","message":"Client connected: I4tL7MD56nF5ORAdAAAB","service":"smart-assistant","timestamp":"2025-10-21 14:58:16"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-21 15:08:11"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-21 15:08:11"}
+{"level":"info","message":"Client connected: WHAgEsk2_YNnBSC7AAAB","service":"smart-assistant","timestamp":"2025-10-21 15:08:13"}
+{"level":"info","message":"Client connected: xjANroFRNTAqsGfUAAAE","service":"smart-assistant","timestamp":"2025-10-21 15:08:51"}
+{"level":"info","message":"Client disconnected: WHAgEsk2_YNnBSC7AAAB","service":"smart-assistant","timestamp":"2025-10-21 15:08:54"}
+{"level":"info","message":"Voice command received: hii","service":"smart-assistant","timestamp":"2025-10-21 15:08:59"}
+{"level":"info","message":"Voice command received: who r u","service":"smart-assistant","timestamp":"2025-10-21 15:09:09"}
+{"level":"info","message":"Intent detected: None, Confidence: 1, Command: who r u","service":"smart-assistant","timestamp":"2025-10-21 15:09:10"}
+{"level":"info","message":"Voice command received: calculations","service":"smart-assistant","timestamp":"2025-10-21 15:09:17"}
+{"level":"info","message":"Intent detected: math, Confidence: 1, Command: calculations","service":"smart-assistant","timestamp":"2025-10-21 15:09:17"}
+{"level":"info","message":"Voice command received: 1+2+3","service":"smart-assistant","timestamp":"2025-10-21 15:09:21"}
+{"level":"info","message":"Voice command received: hi","service":"smart-assistant","timestamp":"2025-10-21 15:09:29"}
+{"level":"info","message":"Client disconnected: xjANroFRNTAqsGfUAAAE","service":"smart-assistant","timestamp":"2025-10-21 15:19:15"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-21 15:30:56"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-21 15:30:56"}
+{"level":"info","message":"Client connected: twm47XEDOx6TRFlzAAAC","service":"smart-assistant","timestamp":"2025-10-21 15:31:13"}
+{"level":"info","message":"Voice command received: hii","service":"smart-assistant","timestamp":"2025-10-21 15:31:17"}
+{"level":"info","message":"Client disconnected: twm47XEDOx6TRFlzAAAC","service":"smart-assistant","timestamp":"2025-10-21 15:31:21"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-22 13:18:32"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-22 13:18:32"}
+{"level":"info","message":"Client connected: qL9gtw2TQUszprBfAAAC","service":"smart-assistant","timestamp":"2025-10-22 13:19:24"}
+{"level":"info","message":"Voice command received: hii","service":"smart-assistant","timestamp":"2025-10-22 13:19:45"}
+{"level":"info","message":"Voice command received: 1+2+3","service":"smart-assistant","timestamp":"2025-10-22 13:19:51"}
+{"level":"info","message":"Voice command received: weather","service":"smart-assistant","timestamp":"2025-10-22 13:19:58"}
+{"level":"info","message":"Intent detected: weather, Confidence: 0.9279582535746778, Command: weather","service":"smart-assistant","timestamp":"2025-10-22 13:19:59"}
+{"level":"info","message":"Voice command received: web search\\","service":"smart-assistant","timestamp":"2025-10-22 13:20:12"}
+{"level":"info","message":"Intent detected: None, Confidence: 1, Command: web search\\","service":"smart-assistant","timestamp":"2025-10-22 13:20:12"}
+{"level":"info","message":"Voice command received: web search","service":"smart-assistant","timestamp":"2025-10-22 13:20:19"}
+{"level":"info","message":"Intent detected: search, Confidence: 1, Command: web search","service":"smart-assistant","timestamp":"2025-10-22 13:20:19"}
+{"level":"info","message":"Voice command received: google","service":"smart-assistant","timestamp":"2025-10-22 13:20:26"}
+{"level":"info","message":"Intent detected: None, Confidence: 1, Command: google","service":"smart-assistant","timestamp":"2025-10-22 13:20:26"}
+{"level":"info","message":"Voice command received: web search","service":"smart-assistant","timestamp":"2025-10-22 13:20:38"}
+{"level":"info","message":"Intent detected: search, Confidence: 1, Command: web search","service":"smart-assistant","timestamp":"2025-10-22 13:20:38"}
+{"level":"info","message":"Client disconnected: qL9gtw2TQUszprBfAAAC","service":"smart-assistant","timestamp":"2025-10-22 13:26:04"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-22 14:32:38"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-22 14:32:39"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-22 14:36:46"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-22 14:36:46"}
+{"level":"info","message":"Client connected: 0DYNUCxWVsoS8qGIAAAC","service":"smart-assistant","timestamp":"2025-10-22 14:37:13"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-22 15:20:48"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-22 15:20:48"}
+{"level":"info","message":"Client connected: fNv9doY5XpsGyV_6AAAC","service":"smart-assistant","timestamp":"2025-10-22 15:21:07"}
+{"level":"info","message":"Voice command received: hii","service":"smart-assistant","timestamp":"2025-10-22 15:21:13"}
+{"level":"info","message":"Voice command received: weather","service":"smart-assistant","timestamp":"2025-10-22 15:22:11"}
+{"level":"info","message":"Intent detected: weather, Confidence: 0.9279582535746778, Command: weather","service":"smart-assistant","timestamp":"2025-10-22 15:22:13"}
+{"level":"info","message":"Voice command received: 1+2+4+3+5","service":"smart-assistant","timestamp":"2025-10-22 15:22:22"}
+{"level":"info","message":"Voice command received: 1+4+5+2*3","service":"smart-assistant","timestamp":"2025-10-22 15:26:29"}
+{"level":"info","message":"Voice command received: 1 + 2 + 3 + 4 + 5.","service":"smart-assistant","timestamp":"2025-10-22 15:26:59"}
+{"level":"info","message":"Smart Assistant Server running on port 5000","service":"smart-assistant","timestamp":"2025-10-23 14:33:51"}
+{"level":"info","message":"NLP Engine initialized and trained","service":"smart-assistant","timestamp":"2025-10-23 14:33:51"}
+{"level":"info","message":"Client connected: dcjHgsCbuM7OQKlCAAAC","service":"smart-assistant","timestamp":"2025-10-23 14:34:10"}
+{"level":"info","message":"Voice command received: 1+2+3","service":"smart-assistant","timestamp":"2025-10-23 14:36:31"}
+{"level":"info","message":"Voice command received: Hello.","service":"smart-assistant","timestamp":"2025-10-23 14:37:06"}
+{"level":"info","message":"Voice command received: 1 + 2 + 3.","service":"smart-assistant","timestamp":"2025-10-23 14:38:52"}
+{"level":"info","message":"Client connected: U-PM-IGASUe9eWchAAAF","service":"smart-assistant","timestamp":"2025-10-23 14:42:27"}
